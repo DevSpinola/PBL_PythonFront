@@ -1,0 +1,57 @@
+﻿@{
+    ViewData["Title"] = "Grafico";
+}
+
+<div class="text-center">
+    <h1>@ViewData["Title"]</h1>
+    <p>Demonstração Visual:</p>
+    <script src="~/js/RecebeColisao.js"></script>
+
+    <!-- Adicionando uma div para exibir os resultados -->
+    <div id="Colisao1">
+        <h1 id="resultados">Resultados 1:</h1>
+        <h2 id="altura">Altura: </h2>
+        <h2 id="tempo">Tempo: </h2>
+        <h2 id="velocidade">Velocidade: </h2>
+        <h2 id="movimento">Movimento: </h2>
+    </div>
+    <!-- Caso nao tenha a 2 colisao nao vai mostrar nada depois do If -->
+    @if (!string.IsNullOrEmpty(ViewBag.Resultado2))
+    {
+        <div id="Colisao2">
+            <h1 id="resultados2">Resultados 2:</h1>
+            <h2 id="altura2">Altura: </h2>
+            <h2 id="tempo2">Tempo: </h2>
+            <h2 id="velocidade2">Velocidade: </h2>
+            <h2 id="movimento2">Movimento: </h2>
+        </div>
+    }
+
+    <!-- Chamar a função e exibir os resultados -->
+    <script>
+       
+        document.addEventListener("DOMContentLoaded", async function () {
+            try {                
+                var informacoes = await getColisaoPorId(@ViewBag.Resultado1);
+                document.getElementById('altura').innerText += informacoes.alturaColisao;
+                document.getElementById('tempo').innerText += informacoes.tempoColisao;
+                document.getElementById('velocidade').innerText += informacoes.voParaColidir;
+                document.getElementById('movimento').innerText += informacoes.movimento;                
+                                             
+                var resultado = '@ViewBag.Resultado2'
+                
+                if (resultado != "" ) {
+                    var informacoes2 = await getColisaoPorId(@ViewBag.Resultado2);
+                    document.getElementById('altura2').innerText += informacoes2.alturaColisao;
+                    document.getElementById('tempo2').innerText += informacoes2.tempoColisao;
+                    document.getElementById('velocidade2').innerText += informacoes2.voParaColidir;
+                    document.getElementById('movimento2').innerText += informacoes2.movimento;
+                }
+
+
+            } catch (error) {
+                console.error("Erro durante a execução:", error);
+            }
+        });
+    </script>
+</div>

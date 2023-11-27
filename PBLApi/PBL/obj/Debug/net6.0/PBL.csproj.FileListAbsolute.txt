@@ -1,0 +1,514 @@
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\obj\Debug\net6.0\PBL.csproj.AssemblyReference.cache
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\obj\Debug\net6.0\PBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\obj\Debug\net6.0\PBL.AssemblyInfoInputs.cache
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\obj\Debug\net6.0\PBL.AssemblyInfo.cs
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\obj\Debug\net6.0\PBL.csproj.CoreCompileInputs.cache
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\obj\Debug\net6.0\PBL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\obj\Debug\net6.0\PBL.RazorAssemblyInfo.cache
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\obj\Debug\net6.0\PBL.RazorAssemblyInfo.cs
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\appsettings.json
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\PBL.staticwebassets.runtime.json
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\PBL.exe
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\PBL.deps.json
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\PBL.runtimeconfig.json
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\PBL.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\PBL.pdb
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\obj\Debug\net6.0\staticwebassets\msbuild.PBL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\obj\Debug\net6.0\staticwebassets\msbuild.build.PBL.props
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PBL.props
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PBL.props
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\obj\Debug\net6.0\scopedcss\bundle\PBL.styles.css
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\obj\Debug\net6.0\scopedcss\projectbundle\PBL.bundle.scp.css
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\obj\Debug\net6.0\PBL.csproj.CopyComplete
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\obj\Debug\net6.0\PBL.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\obj\Debug\net6.0\refint\PBL.dll
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\obj\Debug\net6.0\PBL.pdb
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\obj\Debug\net6.0\PBL.genruntimeconfig.cache
+C:\Users\Spinola\Desktop\Algoritmos\PBL---MVC\PBL\obj\Debug\net6.0\ref\PBL.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\appsettings.json
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\PBL.staticwebassets.runtime.json
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\PBL.exe
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\PBL.deps.json
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\PBL.runtimeconfig.json
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\PBL.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\PBL.pdb
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\obj\Debug\net6.0\PBL.csproj.AssemblyReference.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\obj\Debug\net6.0\PBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\obj\Debug\net6.0\PBL.AssemblyInfoInputs.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\obj\Debug\net6.0\PBL.AssemblyInfo.cs
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\obj\Debug\net6.0\PBL.csproj.CoreCompileInputs.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\obj\Debug\net6.0\PBL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\obj\Debug\net6.0\PBL.RazorAssemblyInfo.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\obj\Debug\net6.0\PBL.RazorAssemblyInfo.cs
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\obj\Debug\net6.0\staticwebassets\msbuild.PBL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\obj\Debug\net6.0\staticwebassets\msbuild.build.PBL.props
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PBL.props
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PBL.props
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\obj\Debug\net6.0\scopedcss\bundle\PBL.styles.css
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\obj\Debug\net6.0\scopedcss\projectbundle\PBL.bundle.scp.css
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\obj\Debug\net6.0\PBL.csproj.CopyComplete
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\obj\Debug\net6.0\PBL.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\obj\Debug\net6.0\refint\PBL.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\obj\Debug\net6.0\PBL.pdb
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\obj\Debug\net6.0\PBL.genruntimeconfig.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL---MVC\PBL\obj\Debug\net6.0\ref\PBL.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\appsettings.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\PBL.staticwebassets.runtime.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\PBL.exe
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\PBL.deps.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\PBL.runtimeconfig.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\PBL.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\PBL.pdb
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\obj\Debug\net6.0\PBL.csproj.AssemblyReference.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\obj\Debug\net6.0\PBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\obj\Debug\net6.0\PBL.AssemblyInfoInputs.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\obj\Debug\net6.0\PBL.AssemblyInfo.cs
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\obj\Debug\net6.0\PBL.csproj.CoreCompileInputs.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\obj\Debug\net6.0\PBL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\obj\Debug\net6.0\PBL.RazorAssemblyInfo.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\obj\Debug\net6.0\PBL.RazorAssemblyInfo.cs
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\obj\Debug\net6.0\staticwebassets\msbuild.PBL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\obj\Debug\net6.0\staticwebassets\msbuild.build.PBL.props
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PBL.props
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PBL.props
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\obj\Debug\net6.0\scopedcss\bundle\PBL.styles.css
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\obj\Debug\net6.0\scopedcss\projectbundle\PBL.bundle.scp.css
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\obj\Debug\net6.0\PBL.csproj.CopyComplete
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\obj\Debug\net6.0\PBL.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\obj\Debug\net6.0\refint\PBL.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\obj\Debug\net6.0\PBL.pdb
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\obj\Debug\net6.0\PBL.genruntimeconfig.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC\PBL\obj\Debug\net6.0\ref\PBL.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\obj\Debug\net6.0\PBL.csproj.AssemblyReference.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\obj\Debug\net6.0\PBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\obj\Debug\net6.0\PBL.AssemblyInfoInputs.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\obj\Debug\net6.0\PBL.AssemblyInfo.cs
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\obj\Debug\net6.0\PBL.csproj.CoreCompileInputs.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\obj\Debug\net6.0\PBL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\obj\Debug\net6.0\PBL.RazorAssemblyInfo.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\obj\Debug\net6.0\PBL.RazorAssemblyInfo.cs
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\obj\Debug\net6.0\PBL.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\obj\Debug\net6.0\refint\PBL.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\obj\Debug\net6.0\PBL.pdb
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\appsettings.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\PBL.staticwebassets.runtime.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\PBL.exe
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\PBL.deps.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\PBL.runtimeconfig.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\PBL.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\PBL.pdb
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\obj\Debug\net6.0\staticwebassets\msbuild.PBL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\obj\Debug\net6.0\staticwebassets\msbuild.build.PBL.props
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PBL.props
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PBL.props
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\obj\Debug\net6.0\scopedcss\bundle\PBL.styles.css
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\obj\Debug\net6.0\scopedcss\projectbundle\PBL.bundle.scp.css
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\obj\Debug\net6.0\PBL.csproj.CopyComplete
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\obj\Debug\net6.0\PBL.genruntimeconfig.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBL---MVC - Copia\PBL\obj\Debug\net6.0\ref\PBL.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\appsettings.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\PBL.staticwebassets.runtime.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\PBL.exe
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\PBL.deps.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\PBL.runtimeconfig.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\PBL.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\PBL.pdb
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\obj\Debug\net6.0\PBL.csproj.AssemblyReference.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\obj\Debug\net6.0\PBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\obj\Debug\net6.0\PBL.AssemblyInfoInputs.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\obj\Debug\net6.0\PBL.AssemblyInfo.cs
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\obj\Debug\net6.0\PBL.csproj.CoreCompileInputs.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\obj\Debug\net6.0\PBL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\obj\Debug\net6.0\PBL.RazorAssemblyInfo.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\obj\Debug\net6.0\PBL.RazorAssemblyInfo.cs
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\obj\Debug\net6.0\staticwebassets\msbuild.PBL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\obj\Debug\net6.0\staticwebassets\msbuild.build.PBL.props
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PBL.props
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PBL.props
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\obj\Debug\net6.0\scopedcss\bundle\PBL.styles.css
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\obj\Debug\net6.0\scopedcss\projectbundle\PBL.bundle.scp.css
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\obj\Debug\net6.0\PBL.csproj.CopyComplete
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\obj\Debug\net6.0\PBL.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\obj\Debug\net6.0\refint\PBL.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\obj\Debug\net6.0\PBL.pdb
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\obj\Debug\net6.0\PBL.genruntimeconfig.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi\PBL\obj\Debug\net6.0\ref\PBL.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\appsettings.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\PBL.staticwebassets.runtime.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\PBL.exe
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\PBL.deps.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\PBL.runtimeconfig.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\PBL.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\PBL.pdb
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\obj\Debug\net6.0\PBL.csproj.AssemblyReference.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\obj\Debug\net6.0\PBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\obj\Debug\net6.0\PBL.AssemblyInfoInputs.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\obj\Debug\net6.0\PBL.AssemblyInfo.cs
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\obj\Debug\net6.0\PBL.csproj.CoreCompileInputs.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\obj\Debug\net6.0\PBL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\obj\Debug\net6.0\PBL.RazorAssemblyInfo.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\obj\Debug\net6.0\PBL.RazorAssemblyInfo.cs
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\obj\Debug\net6.0\staticwebassets\msbuild.PBL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\obj\Debug\net6.0\staticwebassets\msbuild.build.PBL.props
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PBL.props
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PBL.props
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\obj\Debug\net6.0\scopedcss\bundle\PBL.styles.css
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\obj\Debug\net6.0\scopedcss\projectbundle\PBL.bundle.scp.css
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\obj\Debug\net6.0\PBL.csproj.CopyComplete
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\obj\Debug\net6.0\PBL.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\obj\Debug\net6.0\refint\PBL.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\obj\Debug\net6.0\PBL.pdb
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\obj\Debug\net6.0\PBL.genruntimeconfig.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL\PBLApi - Copia\PBL\obj\Debug\net6.0\ref\PBL.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\appsettings.json
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\PBL.staticwebassets.runtime.json
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\PBL.exe
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\PBL.deps.json
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\PBL.runtimeconfig.json
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\PBL.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\PBL.pdb
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\obj\Debug\net6.0\PBL.csproj.AssemblyReference.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\obj\Debug\net6.0\PBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\obj\Debug\net6.0\PBL.AssemblyInfoInputs.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\obj\Debug\net6.0\PBL.AssemblyInfo.cs
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\obj\Debug\net6.0\PBL.csproj.CoreCompileInputs.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\obj\Debug\net6.0\PBL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\obj\Debug\net6.0\PBL.RazorAssemblyInfo.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\obj\Debug\net6.0\PBL.RazorAssemblyInfo.cs
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\obj\Debug\net6.0\staticwebassets\msbuild.PBL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\obj\Debug\net6.0\staticwebassets\msbuild.build.PBL.props
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PBL.props
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PBL.props
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\obj\Debug\net6.0\scopedcss\bundle\PBL.styles.css
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\obj\Debug\net6.0\scopedcss\projectbundle\PBL.bundle.scp.css
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\obj\Debug\net6.0\PBL.csproj.CopyComplete
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\obj\Debug\net6.0\PBL.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\obj\Debug\net6.0\refint\PBL.dll
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\obj\Debug\net6.0\PBL.pdb
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\obj\Debug\net6.0\PBL.genruntimeconfig.cache
+C:\Users\Spinola\Desktop\Faculdade\PBL - Plano B\PBLApi\PBL\obj\Debug\net6.0\ref\PBL.dll
